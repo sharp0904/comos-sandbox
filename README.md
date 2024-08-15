@@ -13,6 +13,9 @@ $ npm install
 ```sh
 $ npm run experiment
 ```
+## create a test key for accounts command
+````npx ts-node generate_mnemonic.ts > testnet.alice.mnemonic.key
+
 
 ## Exercise progression
 
